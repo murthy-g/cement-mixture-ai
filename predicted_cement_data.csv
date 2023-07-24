@@ -1,0 +1,16 @@
+Cement Type,Water-to-Cement Ratio,Aggregate Type,Compressive Strength (MPa),Mixture Status
+TypeA,0.55,Sand,30,Correct
+TypeB,0.42,Gravel,35,Not Correct
+TypeA,0.49,Gravel,28,Not Correct
+TypeC,0.37,Sand,40,Not Correct
+TypeA,0.48,Sand,32,Not Correct
+TypeB,0.44,Gravel,36,Not Correct
+TypeA,0.53,Sand,26,Correct
+TypeC,0.31,Gravel,42,Not Correct
+TypeB,0.41,Gravel,37,Not Correct
+TypeA,0.47,Sand,31,Not Correct
+TypeC,0.38,Gravel,38,Not Correct
+TypeB,0.45,Gravel,33,Not Correct
+TypeC,0.36,Sand,39,Not Correct
+TypeB,0.43,Gravel,34,Not Correct
+TypeA,0.52,Sand,27,Not Correct

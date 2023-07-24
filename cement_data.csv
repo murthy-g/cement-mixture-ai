@@ -1,0 +1,1001 @@
+Cement Type,Water-to-Cement Ratio,Aggregate Type,Compressive Strength (MPa)
+High-Early-Strength Cement,0.45,Crushed Granite,48
+Low Heat Cement,0.5,Crushed Concrete,25
+Ordinary Portland Cement (OPC),0.41,Steel Slag,45
+Air Entraining Cement,0.54,Steel Slag,30
+Composite Cement,0.51,Pumice,51
+Expansive Cement,0.39,Crushed Limestone,50
+Rapid Hardening Cement,0.43,Crushed Granite,22
+Ordinary Portland Cement (OPC),0.51,Expanded Clay,23
+Masonry Cement,0.52,Crushed Concrete,23
+Low Heat Cement,0.55,Crushed Stone,32
+Masonry Cement,0.46,Expanded Clay,20
+Sulphate Resistant Cement,0.43,Expanded Polystyrene Beads (EPS),53
+Composite Cement,0.55,Pumice,51
+Low Heat Cement,0.58,Expanded Shale,59
+Quick Setting Cement,0.55,Recycled Aggregates,32
+Oil Well Cement,0.56,Pumice,34
+Super Sulphated Cement,0.42,Expanded Shale,39
+High-Early-Strength Cement,0.37,Crushed Concrete,51
+Masonry Cement,0.5,Recycled Aggregates,60
+Oil Well Cement,0.55,Scoria,58
+Air Entraining Cement,0.52,Gravel,50
+Expansive Cement,0.58,Expanded Shale,25
+Hydrophobic Cement,0.53,Sand,27
+Sulphate Resistant Cement,0.39,Scoria,48
+Colored Cement,0.54,Recycled Aggregates,35
+Sulphate Resistant Cement,0.39,Gravel,38
+Rapid Hardening Cement,0.38,Scoria,25
+Quick Setting Cement,0.56,Expanded Clay,33
+Quick Setting Cement,0.45,Scoria,43
+Oil Well Cement,0.6,Expanded Shale,60
+Pozzolanic Cement,0.49,Diatomaceous Earth,30
+Oil Well Cement,0.45,Expanded Clay,57
+Oil Well Cement,0.6,Steel Slag,42
+Air Entraining Cement,0.35,Crushed Concrete,34
+High-Early-Strength Cement,0.53,Expanded Polystyrene Beads (EPS),42
+High-Early-Strength Cement,0.37,Crushed Stone,26
+Expansive Cement,0.39,Crushed Limestone,50
+Portland Pozzolana Cement (PPC),0.38,Crushed Concrete,52
+Composite Cement,0.35,Expanded Shale,33
+Sulphate Resistant Cement,0.42,Diatomaceous Earth,20
+Oil Well Cement,0.58,Crushed Concrete,51
+Sulphate Resistant Cement,0.53,Diatomaceous Earth,60
+Pozzolanic Cement,0.44,Crushed Stone,33
+Colored Cement,0.52,Pumice,37
+Masonry Cement,0.57,Crushed Granite,29
+Composite Cement,0.45,Expanded Shale,48
+Oil Well Cement,0.39,Crushed Concrete,30
+High-Early-Strength Cement,0.39,Crushed Granite,26
+Air Entraining Cement,0.59,Diatomaceous Earth,54
+Portland Pozzolana Cement (PPC),0.56,Crushed Stone,24
+Blast Furnace Slag Cement,0.52,Expanded Clay,28
+Low Heat Cement,0.53,Crushed Limestone,59
+Low Heat Cement,0.57,Diatomaceous Earth,33
+Rapid Hardening Cement,0.51,Expanded Polystyrene Beads (EPS),28
+Super Sulphated Cement,0.52,Crushed Granite,26
+Rapid Hardening Cement,0.5,Expanded Clay,29
+High-Early-Strength Cement,0.48,Crushed Stone,60
+High-Early-Strength Cement,0.48,Expanded Clay,45
+Composite Cement,0.47,Crushed Limestone,26
+Masonry Cement,0.48,Scoria,60
+Ordinary Portland Cement (OPC),0.47,Crushed Granite,20
+Oil Well Cement,0.57,Scoria,40
+High-Early-Strength Cement,0.56,Steel Slag,27
+Expansive Cement,0.58,Crushed Stone,50
+Pozzolanic Cement,0.46,Steel Slag,42
+Masonry Cement,0.52,Expanded Polystyrene Beads (EPS),46
+Air Entraining Cement,0.49,Expanded Shale,44
+Expansive Cement,0.59,Steel Slag,45
+Oil Well Cement,0.46,Crushed Concrete,58
+High-Early-Strength Cement,0.41,Crushed Limestone,36
+Composite Cement,0.46,Expanded Clay,22
+Pozzolanic Cement,0.48,Crushed Limestone,42
+Low Heat Cement,0.48,Diatomaceous Earth,46
+Masonry Cement,0.42,Crushed Limestone,27
+Air Entraining Cement,0.52,Pumice,39
+Air Entraining Cement,0.35,Scoria,55
+High-Early-Strength Cement,0.57,Sand,51
+Composite Cement,0.52,Expanded Clay,21
+Pozzolanic Cement,0.54,Recycled Aggregates,49
+Colored Cement,0.4,Diatomaceous Earth,57
+Blast Furnace Slag Cement,0.46,Steel Slag,30
+High Alumina Cement,0.52,Recycled Aggregates,41
+Quick Setting Cement,0.5,Crushed Concrete,51
+Super Sulphated Cement,0.58,Expanded Polystyrene Beads (EPS),30
+Hydrophobic Cement,0.44,Crushed Limestone,33
+High-Early-Strength Cement,0.37,Pumice,59
+Colored Cement,0.53,Expanded Clay,26
+Colored Cement,0.5,Crushed Stone,35
+Super Sulphated Cement,0.49,Gravel,34
+Low Heat Cement,0.42,Crushed Limestone,31
+Super Sulphated Cement,0.46,Crushed Stone,26
+High-Early-Strength Cement,0.36,Crushed Limestone,26
+Masonry Cement,0.55,Sand,39
+Composite Cement,0.55,Expanded Polystyrene Beads (EPS),29
+High-Early-Strength Cement,0.44,Scoria,33
+Masonry Cement,0.56,Crushed Limestone,24
+Low Heat Cement,0.57,Expanded Shale,31
+Ordinary Portland Cement (OPC),0.5,Steel Slag,37
+Blast Furnace Slag Cement,0.35,Steel Slag,43
+Colored Cement,0.42,Crushed Stone,23
+Oil Well Cement,0.38,Expanded Clay,48
+Masonry Cement,0.38,Crushed Stone,21
+Super Sulphated Cement,0.57,Crushed Stone,31
+Quick Setting Cement,0.45,Diatomaceous Earth,22
+Composite Cement,0.51,Crushed Stone,38
+White Cement,0.44,Diatomaceous Earth,24
+Composite Cement,0.48,Expanded Shale,51
+Portland Pozzolana Cement (PPC),0.52,Recycled Aggregates,59
+White Cement,0.47,Scoria,29
+Super Sulphated Cement,0.56,Scoria,52
+Hydrophobic Cement,0.58,Expanded Polystyrene Beads (EPS),34
+High Alumina Cement,0.55,Expanded Shale,50
+Colored Cement,0.43,Crushed Concrete,27
+Ordinary Portland Cement (OPC),0.47,Pumice,41
+Expansive Cement,0.58,Crushed Granite,37
+Super Sulphated Cement,0.41,Crushed Stone,44
+White Cement,0.57,Crushed Limestone,54
+High Alumina Cement,0.51,Crushed Limestone,47
+Super Sulphated Cement,0.52,Expanded Clay,34
+Oil Well Cement,0.52,Gravel,32
+Hydrophobic Cement,0.58,Expanded Clay,26
+Composite Cement,0.4,Gravel,56
+Super Sulphated Cement,0.39,Crushed Concrete,43
+Colored Cement,0.6,Crushed Concrete,33
+Blast Furnace Slag Cement,0.43,Steel Slag,56
+Air Entraining Cement,0.43,Pumice,48
+High-Early-Strength Cement,0.42,Sand,57
+Pozzolanic Cement,0.36,Crushed Concrete,23
+High Alumina Cement,0.41,Scoria,38
+Ordinary Portland Cement (OPC),0.55,Crushed Limestone,54
+Masonry Cement,0.4,Steel Slag,46
+Sulphate Resistant Cement,0.56,Crushed Stone,51
+Low Heat Cement,0.42,Recycled Aggregates,48
+Portland Pozzolana Cement (PPC),0.45,Crushed Stone,32
+Expansive Cement,0.55,Steel Slag,47
+Quick Setting Cement,0.41,Expanded Polystyrene Beads (EPS),26
+Sulphate Resistant Cement,0.46,Crushed Concrete,57
+Masonry Cement,0.4,Diatomaceous Earth,40
+Air Entraining Cement,0.38,Recycled Aggregates,26
+High Alumina Cement,0.5,Crushed Stone,60
+Quick Setting Cement,0.46,Recycled Aggregates,53
+Masonry Cement,0.52,Steel Slag,58
+High Alumina Cement,0.53,Diatomaceous Earth,56
+White Cement,0.43,Expanded Polystyrene Beads (EPS),42
+Blast Furnace Slag Cement,0.38,Crushed Granite,57
+Expansive Cement,0.59,Expanded Clay,41
+Oil Well Cement,0.53,Crushed Granite,38
+Quick Setting Cement,0.36,Gravel,36
+Expansive Cement,0.44,Recycled Aggregates,25
+Air Entraining Cement,0.59,Expanded Polystyrene Beads (EPS),41
+Blast Furnace Slag Cement,0.53,Pumice,51
+Oil Well Cement,0.47,Scoria,37
+Rapid Hardening Cement,0.45,Scoria,44
+High-Early-Strength Cement,0.56,Gravel,39
+High-Early-Strength Cement,0.51,Steel Slag,28
+High-Early-Strength Cement,0.55,Crushed Stone,47
+Pozzolanic Cement,0.56,Sand,39
+Pozzolanic Cement,0.56,Gravel,54
+Super Sulphated Cement,0.47,Crushed Limestone,33
+Composite Cement,0.48,Crushed Granite,22
+Quick Setting Cement,0.41,Expanded Polystyrene Beads (EPS),41
+High-Early-Strength Cement,0.48,Crushed Limestone,21
+Sulphate Resistant Cement,0.52,Gravel,59
+Oil Well Cement,0.51,Sand,24
+Air Entraining Cement,0.56,Recycled Aggregates,56
+White Cement,0.56,Crushed Limestone,39
+White Cement,0.42,Steel Slag,22
+Blast Furnace Slag Cement,0.35,Diatomaceous Earth,34
+Composite Cement,0.46,Steel Slag,50
+Quick Setting Cement,0.57,Steel Slag,24
+Low Heat Cement,0.44,Expanded Clay,35
+White Cement,0.47,Expanded Polystyrene Beads (EPS),34
+Quick Setting Cement,0.4,Scoria,59
+White Cement,0.49,Expanded Clay,44
+Composite Cement,0.53,Gravel,54
+Super Sulphated Cement,0.4,Expanded Polystyrene Beads (EPS),24
+Expansive Cement,0.52,Gravel,21
+Masonry Cement,0.39,Expanded Shale,29
+Oil Well Cement,0.47,Pumice,59
+Oil Well Cement,0.45,Steel Slag,53
+Sulphate Resistant Cement,0.56,Crushed Stone,52
+Sulphate Resistant Cement,0.57,Expanded Polystyrene Beads (EPS),21
+Expansive Cement,0.44,Scoria,42
+Colored Cement,0.41,Crushed Granite,60
+Hydrophobic Cement,0.5,Expanded Shale,48
+Air Entraining Cement,0.37,Recycled Aggregates,30
+Portland Pozzolana Cement (PPC),0.5,Diatomaceous Earth,22
+Composite Cement,0.36,Sand,21
+Composite Cement,0.45,Steel Slag,42
+Super Sulphated Cement,0.42,Gravel,49
+Composite Cement,0.4,Expanded Clay,56
+Quick Setting Cement,0.52,Expanded Clay,53
+Masonry Cement,0.57,Crushed Granite,44
+Super Sulphated Cement,0.39,Crushed Limestone,47
+Quick Setting Cement,0.51,Expanded Shale,42
+Ordinary Portland Cement (OPC),0.41,Crushed Stone,23
+High Alumina Cement,0.36,Expanded Shale,33
+Low Heat Cement,0.35,Sand,36
+Expansive Cement,0.59,Diatomaceous Earth,45
+Oil Well Cement,0.56,Diatomaceous Earth,41
+Masonry Cement,0.55,Steel Slag,25
+Quick Setting Cement,0.45,Scoria,36
+Masonry Cement,0.49,Expanded Polystyrene Beads (EPS),24
+Expansive Cement,0.51,Steel Slag,52
+Hydrophobic Cement,0.59,Expanded Clay,37
+Pozzolanic Cement,0.43,Crushed Stone,21
+Ordinary Portland Cement (OPC),0.52,Scoria,21
+Sulphate Resistant Cement,0.55,Expanded Shale,20
+Pozzolanic Cement,0.36,Crushed Granite,30
+Sulphate Resistant Cement,0.39,Crushed Limestone,30
+Hydrophobic Cement,0.54,Pumice,55
+Blast Furnace Slag Cement,0.46,Pumice,47
+Portland Pozzolana Cement (PPC),0.38,Crushed Stone,55
+High Alumina Cement,0.36,Sand,37
+Hydrophobic Cement,0.55,Expanded Clay,38
+Oil Well Cement,0.5,Sand,21
+Rapid Hardening Cement,0.51,Scoria,28
+High-Early-Strength Cement,0.5,Steel Slag,48
+Pozzolanic Cement,0.51,Recycled Aggregates,29
+Sulphate Resistant Cement,0.49,Scoria,57
+Composite Cement,0.51,Pumice,43
+Ordinary Portland Cement (OPC),0.6,Steel Slag,47
+Oil Well Cement,0.42,Expanded Shale,43
+Air Entraining Cement,0.55,Steel Slag,47
+Oil Well Cement,0.46,Expanded Shale,46
+Oil Well Cement,0.49,Crushed Limestone,24
+High Alumina Cement,0.52,Gravel,60
+Oil Well Cement,0.38,Diatomaceous Earth,54
+Masonry Cement,0.57,Expanded Clay,34
+Colored Cement,0.57,Recycled Aggregates,48
+Blast Furnace Slag Cement,0.53,Expanded Clay,55
+High Alumina Cement,0.37,Expanded Polystyrene Beads (EPS),55
+Super Sulphated Cement,0.46,Expanded Clay,51
+Masonry Cement,0.38,Pumice,52
+Composite Cement,0.4,Crushed Stone,56
+Hydrophobic Cement,0.53,Diatomaceous Earth,40
+Portland Pozzolana Cement (PPC),0.46,Sand,57
+Expansive Cement,0.37,Diatomaceous Earth,44
+Expansive Cement,0.58,Pumice,39
+Blast Furnace Slag Cement,0.37,Crushed Stone,60
+Oil Well Cement,0.43,Expanded Polystyrene Beads (EPS),58
+Expansive Cement,0.39,Scoria,55
+Hydrophobic Cement,0.47,Gravel,21
+High Alumina Cement,0.48,Expanded Polystyrene Beads (EPS),41
+Super Sulphated Cement,0.45,Scoria,52
+High Alumina Cement,0.55,Expanded Clay,51
+Hydrophobic Cement,0.59,Crushed Limestone,22
+Rapid Hardening Cement,0.46,Recycled Aggregates,57
+Masonry Cement,0.53,Sand,32
+Masonry Cement,0.56,Expanded Clay,22
+Colored Cement,0.39,Crushed Concrete,59
+Super Sulphated Cement,0.52,Gravel,47
+Composite Cement,0.37,Crushed Concrete,27
+Super Sulphated Cement,0.5,Crushed Concrete,48
+Portland Pozzolana Cement (PPC),0.4,Gravel,47
+White Cement,0.55,Pumice,31
+Air Entraining Cement,0.38,Expanded Shale,45
+Portland Pozzolana Cement (PPC),0.57,Crushed Limestone,27
+Composite Cement,0.53,Crushed Stone,53
+Blast Furnace Slag Cement,0.43,Gravel,29
+Portland Pozzolana Cement (PPC),0.4,Expanded Clay,22
+Expansive Cement,0.55,Crushed Limestone,50
+Super Sulphated Cement,0.54,Pumice,46
+Low Heat Cement,0.45,Crushed Stone,22
+Ordinary Portland Cement (OPC),0.44,Crushed Limestone,28
+High-Early-Strength Cement,0.53,Expanded Polystyrene Beads (EPS),33
+Expansive Cement,0.48,Pumice,58
+Expansive Cement,0.44,Crushed Limestone,34
+Super Sulphated Cement,0.54,Crushed Concrete,59
+Low Heat Cement,0.51,Crushed Granite,55
+High-Early-Strength Cement,0.38,Recycled Aggregates,32
+Oil Well Cement,0.5,Crushed Stone,25
+Low Heat Cement,0.46,Steel Slag,60
+Pozzolanic Cement,0.52,Gravel,57
+Masonry Cement,0.36,Scoria,60
+Expansive Cement,0.55,Diatomaceous Earth,52
+Blast Furnace Slag Cement,0.56,Steel Slag,23
+Masonry Cement,0.51,Crushed Limestone,36
+Oil Well Cement,0.45,Sand,49
+Low Heat Cement,0.42,Scoria,58
+Quick Setting Cement,0.48,Expanded Shale,29
+Expansive Cement,0.45,Crushed Stone,53
+White Cement,0.56,Crushed Limestone,40
+Pozzolanic Cement,0.38,Pumice,58
+Ordinary Portland Cement (OPC),0.4,Sand,49
+Expansive Cement,0.46,Pumice,30
+Hydrophobic Cement,0.52,Sand,36
+Portland Pozzolana Cement (PPC),0.35,Gravel,40
+Blast Furnace Slag Cement,0.36,Steel Slag,51
+Hydrophobic Cement,0.4,Recycled Aggregates,44
+Masonry Cement,0.53,Crushed Stone,59
+Colored Cement,0.41,Crushed Limestone,55
+Ordinary Portland Cement (OPC),0.36,Expanded Polystyrene Beads (EPS),39
+Pozzolanic Cement,0.42,Steel Slag,22
+Oil Well Cement,0.46,Expanded Polystyrene Beads (EPS),45
+Rapid Hardening Cement,0.59,Expanded Clay,31
+Blast Furnace Slag Cement,0.52,Pumice,54
+Composite Cement,0.36,Diatomaceous Earth,58
+High Alumina Cement,0.35,Expanded Clay,60
+White Cement,0.55,Diatomaceous Earth,21
+Pozzolanic Cement,0.58,Crushed Granite,42
+Masonry Cement,0.51,Gravel,39
+High-Early-Strength Cement,0.51,Crushed Limestone,53
+Super Sulphated Cement,0.46,Crushed Granite,20
+Blast Furnace Slag Cement,0.55,Expanded Shale,41
+Oil Well Cement,0.57,Crushed Stone,22
+Colored Cement,0.54,Diatomaceous Earth,55
+Quick Setting Cement,0.56,Expanded Polystyrene Beads (EPS),52
+Rapid Hardening Cement,0.53,Crushed Concrete,23
+Super Sulphated Cement,0.5,Crushed Stone,20
+Colored Cement,0.36,Steel Slag,41
+Colored Cement,0.48,Expanded Polystyrene Beads (EPS),48
+Quick Setting Cement,0.46,Sand,38
+Oil Well Cement,0.55,Expanded Clay,24
+Pozzolanic Cement,0.36,Pumice,50
+Masonry Cement,0.53,Sand,21
+High-Early-Strength Cement,0.46,Crushed Limestone,36
+Hydrophobic Cement,0.44,Recycled Aggregates,53
+Portland Pozzolana Cement (PPC),0.58,Crushed Limestone,58
+Composite Cement,0.57,Gravel,39
+Masonry Cement,0.6,Crushed Granite,27
+Pozzolanic Cement,0.46,Recycled Aggregates,56
+Portland Pozzolana Cement (PPC),0.47,Scoria,51
+Portland Pozzolana Cement (PPC),0.56,Scoria,39
+Sulphate Resistant Cement,0.53,Expanded Polystyrene Beads (EPS),32
+Air Entraining Cement,0.59,Sand,22
+Composite Cement,0.57,Expanded Shale,57
+Pozzolanic Cement,0.36,Crushed Limestone,35
+Ordinary Portland Cement (OPC),0.56,Crushed Concrete,31
+Colored Cement,0.49,Expanded Shale,52
+Blast Furnace Slag Cement,0.57,Expanded Polystyrene Beads (EPS),60
+Pozzolanic Cement,0.57,Pumice,25
+Masonry Cement,0.49,Crushed Concrete,39
+Hydrophobic Cement,0.55,Crushed Limestone,50
+Hydrophobic Cement,0.4,Crushed Granite,44
+Composite Cement,0.56,Steel Slag,50
+Colored Cement,0.45,Expanded Shale,30
+Hydrophobic Cement,0.42,Crushed Concrete,27
+Super Sulphated Cement,0.37,Diatomaceous Earth,28
+Oil Well Cement,0.43,Pumice,51
+Oil Well Cement,0.36,Crushed Limestone,42
+Oil Well Cement,0.37,Diatomaceous Earth,49
+Super Sulphated Cement,0.4,Expanded Polystyrene Beads (EPS),40
+Quick Setting Cement,0.45,Pumice,28
+Oil Well Cement,0.4,Crushed Concrete,30
+High Alumina Cement,0.41,Steel Slag,32
+Masonry Cement,0.41,Crushed Stone,60
+Oil Well Cement,0.55,Crushed Granite,48
+Composite Cement,0.55,Crushed Concrete,55
+Oil Well Cement,0.41,Gravel,26
+Hydrophobic Cement,0.49,Diatomaceous Earth,22
+Portland Pozzolana Cement (PPC),0.59,Gravel,40
+Blast Furnace Slag Cement,0.49,Scoria,32
+Portland Pozzolana Cement (PPC),0.56,Expanded Polystyrene Beads (EPS),28
+Ordinary Portland Cement (OPC),0.4,Diatomaceous Earth,29
+Oil Well Cement,0.46,Crushed Limestone,42
+Quick Setting Cement,0.6,Sand,50
+Rapid Hardening Cement,0.59,Expanded Shale,40
+Masonry Cement,0.36,Crushed Concrete,51
+Quick Setting Cement,0.39,Diatomaceous Earth,55
+Ordinary Portland Cement (OPC),0.38,Expanded Shale,39
+Ordinary Portland Cement (OPC),0.48,Expanded Polystyrene Beads (EPS),54
+Blast Furnace Slag Cement,0.5,Crushed Concrete,53
+High Alumina Cement,0.52,Expanded Clay,26
+Composite Cement,0.43,Recycled Aggregates,34
+Expansive Cement,0.4,Expanded Polystyrene Beads (EPS),60
+Sulphate Resistant Cement,0.4,Diatomaceous Earth,43
+Sulphate Resistant Cement,0.51,Expanded Clay,36
+Oil Well Cement,0.52,Scoria,43
+Pozzolanic Cement,0.51,Recycled Aggregates,30
+High Alumina Cement,0.35,Steel Slag,32
+White Cement,0.42,Crushed Concrete,37
+Composite Cement,0.59,Crushed Granite,50
+Masonry Cement,0.42,Diatomaceous Earth,28
+Composite Cement,0.42,Sand,52
+High Alumina Cement,0.36,Crushed Limestone,22
+White Cement,0.51,Sand,31
+Quick Setting Cement,0.37,Expanded Shale,42
+Portland Pozzolana Cement (PPC),0.4,Scoria,30
+Hydrophobic Cement,0.47,Pumice,49
+White Cement,0.46,Scoria,29
+Air Entraining Cement,0.5,Gravel,56
+Portland Pozzolana Cement (PPC),0.38,Crushed Granite,58
+Masonry Cement,0.4,Crushed Granite,41
+Colored Cement,0.36,Steel Slag,46
+Composite Cement,0.35,Expanded Clay,25
+Sulphate Resistant Cement,0.37,Expanded Polystyrene Beads (EPS),49
+Rapid Hardening Cement,0.57,Diatomaceous Earth,56
+Rapid Hardening Cement,0.35,Diatomaceous Earth,28
+Portland Pozzolana Cement (PPC),0.5,Diatomaceous Earth,54
+Expansive Cement,0.55,Gravel,50
+Masonry Cement,0.53,Expanded Clay,57
+Hydrophobic Cement,0.6,Crushed Granite,28
+Pozzolanic Cement,0.37,Crushed Stone,25
+Composite Cement,0.58,Sand,45
+Blast Furnace Slag Cement,0.52,Scoria,20
+High Alumina Cement,0.47,Expanded Clay,58
+Low Heat Cement,0.52,Crushed Stone,24
+Colored Cement,0.49,Expanded Polystyrene Beads (EPS),26
+Super Sulphated Cement,0.56,Pumice,46
+Blast Furnace Slag Cement,0.54,Gravel,53
+Sulphate Resistant Cement,0.57,Steel Slag,40
+Composite Cement,0.49,Scoria,42
+High-Early-Strength Cement,0.47,Crushed Limestone,26
+Masonry Cement,0.39,Expanded Clay,37
+Low Heat Cement,0.38,Expanded Clay,41
+Portland Pozzolana Cement (PPC),0.5,Pumice,40
+Blast Furnace Slag Cement,0.47,Crushed Granite,54
+Ordinary Portland Cement (OPC),0.39,Expanded Clay,43
+Super Sulphated Cement,0.59,Crushed Concrete,21
+High Alumina Cement,0.44,Sand,41
+Super Sulphated Cement,0.42,Expanded Clay,29
+Super Sulphated Cement,0.57,Pumice,58
+Pozzolanic Cement,0.5,Expanded Shale,57
+Air Entraining Cement,0.58,Crushed Concrete,50
+Composite Cement,0.36,Sand,60
+Low Heat Cement,0.49,Crushed Granite,22
+Composite Cement,0.56,Expanded Shale,47
+Low Heat Cement,0.53,Scoria,44
+Quick Setting Cement,0.41,Expanded Clay,34
+Composite Cement,0.4,Diatomaceous Earth,52
+White Cement,0.6,Expanded Polystyrene Beads (EPS),54
+Sulphate Resistant Cement,0.49,Recycled Aggregates,32
+Ordinary Portland Cement (OPC),0.58,Expanded Shale,30
+White Cement,0.52,Recycled Aggregates,34
+Portland Pozzolana Cement (PPC),0.55,Crushed Concrete,50
+Composite Cement,0.41,Crushed Concrete,58
+Rapid Hardening Cement,0.4,Crushed Stone,50
+Hydrophobic Cement,0.56,Scoria,24
+Composite Cement,0.59,Expanded Shale,60
+Hydrophobic Cement,0.4,Steel Slag,21
+Sulphate Resistant Cement,0.52,Pumice,26
+Masonry Cement,0.57,Expanded Clay,38
+Pozzolanic Cement,0.46,Diatomaceous Earth,32
+Air Entraining Cement,0.51,Pumice,52
+Rapid Hardening Cement,0.45,Crushed Limestone,35
+Portland Pozzolana Cement (PPC),0.54,Steel Slag,22
+Blast Furnace Slag Cement,0.49,Diatomaceous Earth,55
+Oil Well Cement,0.46,Sand,36
+Masonry Cement,0.45,Expanded Shale,21
+Hydrophobic Cement,0.4,Crushed Granite,59
+White Cement,0.52,Crushed Stone,54
+Colored Cement,0.52,Steel Slag,26
+Low Heat Cement,0.45,Expanded Shale,51
+Sulphate Resistant Cement,0.49,Expanded Clay,54
+Pozzolanic Cement,0.41,Crushed Concrete,60
+Pozzolanic Cement,0.4,Steel Slag,47
+Composite Cement,0.58,Gravel,57
+Hydrophobic Cement,0.5,Expanded Polystyrene Beads (EPS),54
+Composite Cement,0.52,Crushed Limestone,25
+Super Sulphated Cement,0.45,Crushed Concrete,29
+Colored Cement,0.47,Pumice,41
+Composite Cement,0.36,Sand,23
+Oil Well Cement,0.52,Pumice,33
+Hydrophobic Cement,0.5,Gravel,24
+Colored Cement,0.56,Recycled Aggregates,40
+Hydrophobic Cement,0.48,Recycled Aggregates,51
+Masonry Cement,0.5,Diatomaceous Earth,34
+Pozzolanic Cement,0.52,Diatomaceous Earth,36
+Hydrophobic Cement,0.57,Crushed Concrete,59
+Hydrophobic Cement,0.53,Crushed Stone,38
+Composite Cement,0.35,Scoria,35
+Ordinary Portland Cement (OPC),0.51,Diatomaceous Earth,38
+Composite Cement,0.5,Expanded Clay,57
+Air Entraining Cement,0.42,Steel Slag,37
+High-Early-Strength Cement,0.42,Gravel,22
+White Cement,0.41,Crushed Stone,34
+Quick Setting Cement,0.59,Pumice,41
+Oil Well Cement,0.41,Expanded Clay,27
+Blast Furnace Slag Cement,0.43,Diatomaceous Earth,25
+High-Early-Strength Cement,0.41,Expanded Polystyrene Beads (EPS),35
+High-Early-Strength Cement,0.49,Expanded Clay,47
+Quick Setting Cement,0.48,Recycled Aggregates,50
+Blast Furnace Slag Cement,0.51,Crushed Limestone,38
+Super Sulphated Cement,0.51,Crushed Concrete,22
+Masonry Cement,0.53,Expanded Clay,60
+Oil Well Cement,0.47,Expanded Clay,31
+Sulphate Resistant Cement,0.48,Crushed Concrete,27
+Blast Furnace Slag Cement,0.52,Pumice,20
+Pozzolanic Cement,0.37,Crushed Limestone,22
+Sulphate Resistant Cement,0.38,Scoria,60
+Super Sulphated Cement,0.44,Expanded Shale,21
+Oil Well Cement,0.58,Expanded Shale,47
+Colored Cement,0.38,Steel Slag,38
+High Alumina Cement,0.52,Sand,28
+Expansive Cement,0.44,Gravel,54
+Blast Furnace Slag Cement,0.51,Sand,57
+Pozzolanic Cement,0.47,Crushed Limestone,24
+Ordinary Portland Cement (OPC),0.49,Sand,20
+Low Heat Cement,0.53,Crushed Limestone,24
+Air Entraining Cement,0.52,Pumice,21
+Portland Pozzolana Cement (PPC),0.5,Steel Slag,21
+White Cement,0.47,Diatomaceous Earth,42
+Oil Well Cement,0.58,Expanded Clay,22
+Hydrophobic Cement,0.51,Expanded Clay,34
+High-Early-Strength Cement,0.51,Crushed Stone,29
+High Alumina Cement,0.42,Sand,36
+Hydrophobic Cement,0.44,Crushed Granite,20
+Oil Well Cement,0.51,Gravel,47
+Ordinary Portland Cement (OPC),0.49,Crushed Granite,24
+Air Entraining Cement,0.38,Steel Slag,54
+Masonry Cement,0.48,Expanded Polystyrene Beads (EPS),43
+Portland Pozzolana Cement (PPC),0.48,Recycled Aggregates,25
+Composite Cement,0.46,Expanded Clay,20
+Pozzolanic Cement,0.5,Crushed Limestone,34
+Air Entraining Cement,0.57,Diatomaceous Earth,37
+Oil Well Cement,0.36,Scoria,26
+Quick Setting Cement,0.52,Crushed Granite,35
+Oil Well Cement,0.5,Crushed Granite,38
+White Cement,0.57,Pumice,36
+Sulphate Resistant Cement,0.51,Scoria,55
+Composite Cement,0.49,Gravel,22
+Oil Well Cement,0.59,Diatomaceous Earth,28
+Oil Well Cement,0.5,Crushed Concrete,47
+Low Heat Cement,0.54,Crushed Limestone,43
+Portland Pozzolana Cement (PPC),0.57,Crushed Concrete,33
+Expansive Cement,0.39,Expanded Polystyrene Beads (EPS),32
+Pozzolanic Cement,0.58,Crushed Concrete,46
+Colored Cement,0.48,Recycled Aggregates,39
+Composite Cement,0.44,Scoria,51
+Sulphate Resistant Cement,0.52,Recycled Aggregates,47
+Composite Cement,0.44,Steel Slag,36
+Expansive Cement,0.42,Diatomaceous Earth,20
+Portland Pozzolana Cement (PPC),0.44,Crushed Granite,32
+Masonry Cement,0.56,Expanded Polystyrene Beads (EPS),21
+White Cement,0.48,Pumice,49
+Rapid Hardening Cement,0.56,Expanded Clay,27
+High-Early-Strength Cement,0.48,Pumice,35
+Composite Cement,0.56,Crushed Stone,28
+High-Early-Strength Cement,0.42,Diatomaceous Earth,51
+Composite Cement,0.58,Expanded Polystyrene Beads (EPS),35
+Ordinary Portland Cement (OPC),0.59,Crushed Limestone,45
+Blast Furnace Slag Cement,0.52,Expanded Shale,25
+Air Entraining Cement,0.53,Gravel,20
+Low Heat Cement,0.55,Expanded Shale,29
+Blast Furnace Slag Cement,0.37,Recycled Aggregates,51
+White Cement,0.4,Crushed Granite,52
+Pozzolanic Cement,0.35,Pumice,48
+Oil Well Cement,0.37,Steel Slag,33
+Portland Pozzolana Cement (PPC),0.4,Crushed Granite,34
+Quick Setting Cement,0.56,Diatomaceous Earth,52
+Sulphate Resistant Cement,0.48,Crushed Concrete,51
+Low Heat Cement,0.47,Crushed Granite,24
+Portland Pozzolana Cement (PPC),0.37,Scoria,59
+Hydrophobic Cement,0.47,Scoria,24
+Composite Cement,0.53,Expanded Polystyrene Beads (EPS),44
+Masonry Cement,0.39,Crushed Concrete,44
+Blast Furnace Slag Cement,0.35,Steel Slag,50
+Air Entraining Cement,0.55,Expanded Shale,60
+Blast Furnace Slag Cement,0.5,Scoria,21
+Expansive Cement,0.39,Pumice,45
+Masonry Cement,0.39,Crushed Limestone,58
+Composite Cement,0.36,Steel Slag,31
+Air Entraining Cement,0.45,Pumice,60
+Colored Cement,0.45,Steel Slag,23
+Ordinary Portland Cement (OPC),0.4,Recycled Aggregates,25
+Colored Cement,0.39,Crushed Granite,45
+Oil Well Cement,0.52,Scoria,57
+Hydrophobic Cement,0.6,Crushed Granite,31
+High Alumina Cement,0.43,Crushed Limestone,56
+Quick Setting Cement,0.56,Crushed Concrete,54
+Sulphate Resistant Cement,0.4,Crushed Granite,30
+Low Heat Cement,0.52,Sand,37
+Composite Cement,0.38,Expanded Shale,37
+Oil Well Cement,0.43,Scoria,52
+Low Heat Cement,0.35,Diatomaceous Earth,52
+Air Entraining Cement,0.53,Crushed Stone,57
+Masonry Cement,0.55,Expanded Polystyrene Beads (EPS),35
+Masonry Cement,0.47,Scoria,37
+Sulphate Resistant Cement,0.56,Sand,58
+Composite Cement,0.41,Crushed Granite,60
+Air Entraining Cement,0.44,Crushed Stone,30
+Rapid Hardening Cement,0.41,Expanded Clay,58
+Colored Cement,0.53,Crushed Limestone,27
+Masonry Cement,0.4,Scoria,45
+Rapid Hardening Cement,0.45,Expanded Polystyrene Beads (EPS),44
+Ordinary Portland Cement (OPC),0.44,Sand,24
+Portland Pozzolana Cement (PPC),0.51,Crushed Limestone,29
+Super Sulphated Cement,0.49,Expanded Polystyrene Beads (EPS),58
+Portland Pozzolana Cement (PPC),0.56,Pumice,25
+Oil Well Cement,0.36,Crushed Concrete,41
+White Cement,0.49,Scoria,46
+Air Entraining Cement,0.41,Expanded Clay,34
+Ordinary Portland Cement (OPC),0.56,Crushed Granite,32
+Composite Cement,0.56,Expanded Clay,54
+Oil Well Cement,0.55,Recycled Aggregates,57
+Composite Cement,0.5,Expanded Shale,35
+Expansive Cement,0.56,Expanded Clay,22
+Oil Well Cement,0.42,Crushed Limestone,21
+Colored Cement,0.37,Scoria,46
+White Cement,0.56,Pumice,51
+Masonry Cement,0.57,Expanded Clay,29
+Expansive Cement,0.59,Crushed Limestone,56
+Composite Cement,0.43,Expanded Shale,37
+Quick Setting Cement,0.4,Recycled Aggregates,21
+Expansive Cement,0.52,Pumice,24
+Sulphate Resistant Cement,0.42,Diatomaceous Earth,20
+Composite Cement,0.56,Crushed Concrete,41
+Quick Setting Cement,0.49,Pumice,34
+Rapid Hardening Cement,0.58,Crushed Granite,31
+Blast Furnace Slag Cement,0.52,Expanded Polystyrene Beads (EPS),46
+Oil Well Cement,0.48,Steel Slag,42
+Ordinary Portland Cement (OPC),0.37,Recycled Aggregates,49
+Rapid Hardening Cement,0.57,Steel Slag,34
+Hydrophobic Cement,0.56,Crushed Stone,26
+Pozzolanic Cement,0.59,Crushed Concrete,53
+Air Entraining Cement,0.47,Expanded Shale,21
+Super Sulphated Cement,0.58,Diatomaceous Earth,37
+High-Early-Strength Cement,0.51,Crushed Granite,23
+Portland Pozzolana Cement (PPC),0.57,Crushed Concrete,54
+High-Early-Strength Cement,0.52,Crushed Limestone,35
+Oil Well Cement,0.39,Crushed Concrete,44
+Pozzolanic Cement,0.43,Scoria,30
+Oil Well Cement,0.39,Crushed Concrete,45
+Rapid Hardening Cement,0.42,Crushed Stone,37
+Composite Cement,0.59,Scoria,37
+Expansive Cement,0.52,Steel Slag,26
+Colored Cement,0.57,Expanded Clay,51
+White Cement,0.38,Recycled Aggregates,38
+High Alumina Cement,0.39,Crushed Limestone,43
+Rapid Hardening Cement,0.45,Pumice,34
+Composite Cement,0.55,Crushed Limestone,52
+Portland Pozzolana Cement (PPC),0.47,Sand,24
+Blast Furnace Slag Cement,0.44,Expanded Polystyrene Beads (EPS),35
+Sulphate Resistant Cement,0.55,Steel Slag,54
+Masonry Cement,0.59,Steel Slag,27
+Hydrophobic Cement,0.5,Diatomaceous Earth,37
+Super Sulphated Cement,0.39,Sand,22
+Quick Setting Cement,0.48,Expanded Shale,22
+Composite Cement,0.57,Crushed Stone,30
+Quick Setting Cement,0.35,Diatomaceous Earth,53
+Masonry Cement,0.58,Crushed Stone,47
+Ordinary Portland Cement (OPC),0.4,Scoria,51
+Composite Cement,0.56,Sand,24
+Ordinary Portland Cement (OPC),0.57,Crushed Stone,47
+White Cement,0.38,Pumice,37
+Masonry Cement,0.51,Crushed Concrete,41
+High Alumina Cement,0.52,Expanded Polystyrene Beads (EPS),47
+Composite Cement,0.46,Expanded Clay,54
+Blast Furnace Slag Cement,0.56,Sand,47
+Oil Well Cement,0.36,Scoria,46
+Masonry Cement,0.47,Diatomaceous Earth,30
+Ordinary Portland Cement (OPC),0.44,Pumice,45
+Air Entraining Cement,0.4,Sand,28
+Oil Well Cement,0.51,Crushed Stone,40
+High Alumina Cement,0.37,Pumice,42
+Expansive Cement,0.38,Crushed Limestone,60
+Hydrophobic Cement,0.5,Expanded Shale,40
+Pozzolanic Cement,0.44,Crushed Concrete,45
+Super Sulphated Cement,0.49,Crushed Concrete,26
+Portland Pozzolana Cement (PPC),0.47,Crushed Concrete,29
+Low Heat Cement,0.5,Diatomaceous Earth,57
+Oil Well Cement,0.57,Recycled Aggregates,35
+Composite Cement,0.59,Sand,50
+White Cement,0.45,Crushed Stone,54
+Oil Well Cement,0.39,Gravel,41
+Quick Setting Cement,0.39,Crushed Stone,40
+Pozzolanic Cement,0.5,Crushed Concrete,22
+Rapid Hardening Cement,0.56,Sand,32
+White Cement,0.47,Crushed Limestone,27
+Low Heat Cement,0.43,Steel Slag,24
+Ordinary Portland Cement (OPC),0.49,Pumice,47
+Expansive Cement,0.47,Diatomaceous Earth,50
+Pozzolanic Cement,0.47,Crushed Stone,45
+Super Sulphated Cement,0.36,Pumice,36
+Low Heat Cement,0.42,Recycled Aggregates,32
+Quick Setting Cement,0.42,Recycled Aggregates,48
+Air Entraining Cement,0.4,Diatomaceous Earth,40
+Rapid Hardening Cement,0.52,Crushed Limestone,59
+White Cement,0.55,Diatomaceous Earth,47
+White Cement,0.35,Pumice,33
+High-Early-Strength Cement,0.42,Steel Slag,52
+Hydrophobic Cement,0.41,Pumice,38
+Low Heat Cement,0.43,Expanded Shale,60
+Super Sulphated Cement,0.47,Expanded Polystyrene Beads (EPS),29
+Sulphate Resistant Cement,0.36,Expanded Shale,25
+Oil Well Cement,0.44,Crushed Granite,35
+Colored Cement,0.56,Expanded Clay,38
+Ordinary Portland Cement (OPC),0.49,Crushed Granite,42
+Ordinary Portland Cement (OPC),0.48,Recycled Aggregates,40
+Expansive Cement,0.55,Expanded Clay,28
+Super Sulphated Cement,0.54,Gravel,50
+High Alumina Cement,0.37,Crushed Granite,34
+Oil Well Cement,0.4,Expanded Clay,44
+Quick Setting Cement,0.46,Sand,35
+High Alumina Cement,0.44,Steel Slag,34
+Ordinary Portland Cement (OPC),0.43,Expanded Clay,36
+Oil Well Cement,0.49,Crushed Stone,21
+Oil Well Cement,0.39,Gravel,50
+Ordinary Portland Cement (OPC),0.48,Expanded Polystyrene Beads (EPS),45
+Masonry Cement,0.58,Gravel,54
+Ordinary Portland Cement (OPC),0.55,Expanded Polystyrene Beads (EPS),44
+Pozzolanic Cement,0.42,Gravel,42
+Ordinary Portland Cement (OPC),0.4,Pumice,41
+Sulphate Resistant Cement,0.57,Scoria,52
+Oil Well Cement,0.46,Sand,41
+Hydrophobic Cement,0.5,Diatomaceous Earth,24
+Hydrophobic Cement,0.48,Scoria,35
+Pozzolanic Cement,0.46,Crushed Limestone,52
+Sulphate Resistant Cement,0.58,Crushed Limestone,55
+Pozzolanic Cement,0.42,Expanded Polystyrene Beads (EPS),57
+Oil Well Cement,0.47,Expanded Shale,41
+Low Heat Cement,0.58,Diatomaceous Earth,46
+Oil Well Cement,0.41,Sand,35
+Low Heat Cement,0.44,Diatomaceous Earth,36
+Hydrophobic Cement,0.58,Pumice,54
+Portland Pozzolana Cement (PPC),0.38,Diatomaceous Earth,24
+Oil Well Cement,0.54,Scoria,49
+Composite Cement,0.44,Scoria,34
+High-Early-Strength Cement,0.57,Pumice,52
+Masonry Cement,0.57,Diatomaceous Earth,41
+Colored Cement,0.48,Crushed Stone,39
+Super Sulphated Cement,0.45,Recycled Aggregates,24
+Quick Setting Cement,0.58,Expanded Clay,43
+Oil Well Cement,0.5,Sand,48
+Rapid Hardening Cement,0.39,Gravel,39
+Composite Cement,0.54,Gravel,41
+Composite Cement,0.57,Pumice,55
+Composite Cement,0.46,Expanded Shale,60
+Masonry Cement,0.45,Steel Slag,40
+Masonry Cement,0.49,Crushed Granite,37
+Super Sulphated Cement,0.43,Crushed Stone,52
+Ordinary Portland Cement (OPC),0.41,Expanded Clay,57
+Low Heat Cement,0.52,Scoria,29
+Oil Well Cement,0.55,Pumice,60
+Composite Cement,0.51,Crushed Concrete,31
+White Cement,0.52,Steel Slag,32
+Low Heat Cement,0.43,Expanded Polystyrene Beads (EPS),52
+Portland Pozzolana Cement (PPC),0.52,Recycled Aggregates,49
+Oil Well Cement,0.53,Pumice,54
+Masonry Cement,0.57,Crushed Limestone,22
+Quick Setting Cement,0.47,Crushed Granite,35
+Air Entraining Cement,0.48,Crushed Limestone,38
+Quick Setting Cement,0.35,Crushed Granite,36
+Super Sulphated Cement,0.39,Crushed Limestone,51
+Air Entraining Cement,0.43,Crushed Granite,37
+Low Heat Cement,0.6,Crushed Concrete,37
+Masonry Cement,0.55,Sand,28
+High-Early-Strength Cement,0.5,Expanded Polystyrene Beads (EPS),57
+Low Heat Cement,0.37,Expanded Shale,28
+Low Heat Cement,0.51,Expanded Clay,52
+Low Heat Cement,0.38,Expanded Polystyrene Beads (EPS),37
+Portland Pozzolana Cement (PPC),0.57,Sand,54
+Oil Well Cement,0.37,Gravel,30
+High Alumina Cement,0.37,Diatomaceous Earth,58
+Quick Setting Cement,0.43,Crushed Limestone,41
+Blast Furnace Slag Cement,0.47,Steel Slag,43
+Masonry Cement,0.56,Gravel,42
+Oil Well Cement,0.56,Crushed Limestone,43
+Composite Cement,0.42,Steel Slag,32
+Sulphate Resistant Cement,0.6,Crushed Stone,43
+Colored Cement,0.46,Pumice,50
+High Alumina Cement,0.54,Expanded Polystyrene Beads (EPS),27
+High-Early-Strength Cement,0.59,Crushed Concrete,40
+Hydrophobic Cement,0.51,Expanded Clay,20
+Expansive Cement,0.41,Gravel,26
+Blast Furnace Slag Cement,0.35,Gravel,44
+Colored Cement,0.54,Crushed Concrete,38
+Blast Furnace Slag Cement,0.46,Crushed Concrete,35
+Portland Pozzolana Cement (PPC),0.54,Sand,43
+Colored Cement,0.37,Expanded Shale,58
+Masonry Cement,0.35,Expanded Clay,20
+Oil Well Cement,0.58,Expanded Polystyrene Beads (EPS),60
+High Alumina Cement,0.55,Crushed Stone,28
+Ordinary Portland Cement (OPC),0.35,Steel Slag,32
+Rapid Hardening Cement,0.39,Gravel,48
+Ordinary Portland Cement (OPC),0.38,Crushed Limestone,49
+Low Heat Cement,0.49,Expanded Polystyrene Beads (EPS),27
+Sulphate Resistant Cement,0.49,Expanded Shale,27
+Sulphate Resistant Cement,0.54,Sand,42
+White Cement,0.36,Diatomaceous Earth,27
+Masonry Cement,0.4,Scoria,22
+Rapid Hardening Cement,0.49,Recycled Aggregates,28
+White Cement,0.51,Expanded Shale,36
+Low Heat Cement,0.57,Expanded Polystyrene Beads (EPS),55
+Composite Cement,0.56,Sand,26
+High Alumina Cement,0.49,Steel Slag,44
+Expansive Cement,0.47,Crushed Concrete,37
+Quick Setting Cement,0.56,Expanded Clay,32
+Low Heat Cement,0.36,Expanded Clay,34
+Portland Pozzolana Cement (PPC),0.52,Crushed Stone,41
+Oil Well Cement,0.4,Steel Slag,48
+Expansive Cement,0.6,Crushed Granite,24
+Composite Cement,0.4,Crushed Stone,58
+Pozzolanic Cement,0.44,Expanded Polystyrene Beads (EPS),44
+Expansive Cement,0.36,Expanded Clay,45
+Super Sulphated Cement,0.38,Crushed Granite,50
+Air Entraining Cement,0.39,Crushed Stone,32
+Colored Cement,0.57,Diatomaceous Earth,40
+Ordinary Portland Cement (OPC),0.35,Crushed Concrete,28
+Oil Well Cement,0.57,Pumice,32
+Rapid Hardening Cement,0.57,Gravel,26
+Masonry Cement,0.39,Steel Slag,33
+Masonry Cement,0.44,Gravel,20
+Oil Well Cement,0.36,Gravel,54
+Oil Well Cement,0.42,Expanded Polystyrene Beads (EPS),30
+Composite Cement,0.42,Expanded Polystyrene Beads (EPS),39
+Ordinary Portland Cement (OPC),0.46,Crushed Concrete,26
+Pozzolanic Cement,0.46,Pumice,53
+Expansive Cement,0.43,Crushed Granite,58
+Pozzolanic Cement,0.53,Gravel,30
+Air Entraining Cement,0.37,Expanded Clay,42
+Rapid Hardening Cement,0.41,Sand,50
+Rapid Hardening Cement,0.46,Crushed Concrete,50
+Quick Setting Cement,0.43,Gravel,37
+Hydrophobic Cement,0.55,Expanded Shale,21
+Air Entraining Cement,0.46,Expanded Shale,50
+High-Early-Strength Cement,0.54,Expanded Clay,42
+Air Entraining Cement,0.5,Expanded Clay,27
+Composite Cement,0.36,Diatomaceous Earth,43
+Ordinary Portland Cement (OPC),0.57,Crushed Concrete,33
+Pozzolanic Cement,0.54,Sand,60
+Portland Pozzolana Cement (PPC),0.37,Expanded Clay,58
+Oil Well Cement,0.37,Crushed Granite,55
+Hydrophobic Cement,0.45,Crushed Granite,21
+Ordinary Portland Cement (OPC),0.41,Expanded Polystyrene Beads (EPS),57
+Rapid Hardening Cement,0.57,Crushed Stone,45
+High-Early-Strength Cement,0.55,Crushed Stone,35
+Hydrophobic Cement,0.39,Sand,53
+Super Sulphated Cement,0.55,Scoria,27
+Low Heat Cement,0.54,Crushed Limestone,26
+Air Entraining Cement,0.45,Expanded Polystyrene Beads (EPS),26
+Oil Well Cement,0.4,Diatomaceous Earth,49
+Portland Pozzolana Cement (PPC),0.45,Sand,41
+Expansive Cement,0.4,Expanded Clay,57
+Sulphate Resistant Cement,0.5,Scoria,36
+Sulphate Resistant Cement,0.35,Steel Slag,42
+Composite Cement,0.56,Pumice,58
+High-Early-Strength Cement,0.45,Sand,56
+Composite Cement,0.38,Expanded Shale,51
+Super Sulphated Cement,0.45,Steel Slag,27
+Blast Furnace Slag Cement,0.53,Crushed Granite,39
+Oil Well Cement,0.52,Expanded Polystyrene Beads (EPS),60
+Composite Cement,0.54,Expanded Clay,54
+Expansive Cement,0.53,Sand,47
+Composite Cement,0.39,Gravel,37
+Composite Cement,0.54,Recycled Aggregates,24
+Low Heat Cement,0.56,Crushed Stone,39
+Sulphate Resistant Cement,0.48,Crushed Granite,34
+Blast Furnace Slag Cement,0.57,Expanded Shale,39
+White Cement,0.5,Crushed Concrete,25
+Low Heat Cement,0.5,Recycled Aggregates,52
+High-Early-Strength Cement,0.55,Sand,28
+Colored Cement,0.6,Expanded Shale,55
+Blast Furnace Slag Cement,0.44,Pumice,24
+Oil Well Cement,0.42,Sand,41
+Hydrophobic Cement,0.6,Crushed Granite,53
+Portland Pozzolana Cement (PPC),0.38,Expanded Clay,55
+Oil Well Cement,0.36,Crushed Granite,44
+Composite Cement,0.39,Crushed Limestone,41
+Oil Well Cement,0.44,Steel Slag,28
+High Alumina Cement,0.58,Gravel,55
+Super Sulphated Cement,0.49,Pumice,60
+Composite Cement,0.55,Gravel,30
+Rapid Hardening Cement,0.45,Pumice,40
+Blast Furnace Slag Cement,0.51,Gravel,22
+Oil Well Cement,0.46,Crushed Stone,31
+Rapid Hardening Cement,0.46,Scoria,46
+Composite Cement,0.47,Recycled Aggregates,27
+Quick Setting Cement,0.5,Crushed Granite,46
+Portland Pozzolana Cement (PPC),0.59,Recycled Aggregates,38
+High Alumina Cement,0.41,Steel Slag,59
+Quick Setting Cement,0.44,Crushed Limestone,44
+Portland Pozzolana Cement (PPC),0.46,Crushed Concrete,48
+Oil Well Cement,0.42,Crushed Stone,22
+Portland Pozzolana Cement (PPC),0.47,Crushed Stone,53
+Composite Cement,0.38,Pumice,23
+Pozzolanic Cement,0.55,Diatomaceous Earth,34
+Oil Well Cement,0.53,Crushed Granite,37
+Oil Well Cement,0.44,Expanded Polystyrene Beads (EPS),46
+Masonry Cement,0.49,Expanded Polystyrene Beads (EPS),51
+Quick Setting Cement,0.44,Diatomaceous Earth,34
+Sulphate Resistant Cement,0.4,Crushed Stone,28
+Ordinary Portland Cement (OPC),0.56,Steel Slag,34
+Sulphate Resistant Cement,0.43,Sand,49
+Hydrophobic Cement,0.35,Crushed Limestone,37
+Pozzolanic Cement,0.54,Crushed Concrete,42
+Oil Well Cement,0.52,Gravel,46
+Rapid Hardening Cement,0.57,Sand,57
+Low Heat Cement,0.55,Expanded Shale,37
+Composite Cement,0.59,Diatomaceous Earth,53
+High Alumina Cement,0.42,Expanded Polystyrene Beads (EPS),20
+High-Early-Strength Cement,0.47,Expanded Shale,42
+Composite Cement,0.48,Steel Slag,25
+Oil Well Cement,0.38,Expanded Polystyrene Beads (EPS),33
+Rapid Hardening Cement,0.55,Expanded Polystyrene Beads (EPS),58
+Super Sulphated Cement,0.6,Crushed Concrete,39
+Oil Well Cement,0.53,Crushed Granite,58
+Portland Pozzolana Cement (PPC),0.57,Crushed Concrete,23
+Expansive Cement,0.36,Expanded Polystyrene Beads (EPS),41
+Composite Cement,0.56,Gravel,50
+Ordinary Portland Cement (OPC),0.47,Crushed Granite,51
+Rapid Hardening Cement,0.49,Expanded Shale,55
+Expansive Cement,0.49,Gravel,22
+Oil Well Cement,0.42,Crushed Concrete,28
+High-Early-Strength Cement,0.39,Recycled Aggregates,37
+Composite Cement,0.58,Expanded Polystyrene Beads (EPS),50
+Blast Furnace Slag Cement,0.46,Scoria,30
+Low Heat Cement,0.37,Recycled Aggregates,30
+Pozzolanic Cement,0.53,Diatomaceous Earth,60
+Ordinary Portland Cement (OPC),0.37,Pumice,28
+Masonry Cement,0.45,Crushed Limestone,28
+High Alumina Cement,0.53,Sand,45
+Blast Furnace Slag Cement,0.41,Expanded Shale,21
+Expansive Cement,0.46,Sand,27
+Masonry Cement,0.41,Diatomaceous Earth,57
+White Cement,0.39,Expanded Polystyrene Beads (EPS),28
+Hydrophobic Cement,0.58,Gravel,50
+Composite Cement,0.36,Expanded Shale,27
+Colored Cement,0.37,Crushed Concrete,48
+Portland Pozzolana Cement (PPC),0.54,Expanded Clay,21
+Low Heat Cement,0.35,Crushed Stone,26
+Hydrophobic Cement,0.6,Diatomaceous Earth,40
+Colored Cement,0.41,Expanded Polystyrene Beads (EPS),32
+Sulphate Resistant Cement,0.41,Recycled Aggregates,27
+Portland Pozzolana Cement (PPC),0.4,Pumice,37
+Oil Well Cement,0.5,Gravel,40
+Hydrophobic Cement,0.56,Steel Slag,20
+Colored Cement,0.39,Steel Slag,39
+High Alumina Cement,0.57,Diatomaceous Earth,56
+Sulphate Resistant Cement,0.52,Pumice,53
+Composite Cement,0.37,Expanded Shale,23
+Air Entraining Cement,0.55,Scoria,51
+Composite Cement,0.41,Steel Slag,48
+High-Early-Strength Cement,0.54,Gravel,54
+Oil Well Cement,0.42,Diatomaceous Earth,41
+Masonry Cement,0.56,Expanded Polystyrene Beads (EPS),41
+Masonry Cement,0.38,Steel Slag,20
+High-Early-Strength Cement,0.36,Pumice,55
+Air Entraining Cement,0.58,Sand,26
+Rapid Hardening Cement,0.42,Pumice,32
+Quick Setting Cement,0.51,Sand,23
+Oil Well Cement,0.35,Expanded Polystyrene Beads (EPS),46
+Blast Furnace Slag Cement,0.37,Gravel,40
+Composite Cement,0.51,Expanded Polystyrene Beads (EPS),38
+Oil Well Cement,0.49,Crushed Stone,38
+Hydrophobic Cement,0.59,Expanded Clay,42
+Blast Furnace Slag Cement,0.59,Crushed Stone,40
+Hydrophobic Cement,0.53,Scoria,32
+White Cement,0.36,Sand,56
+Masonry Cement,0.4,Crushed Stone,51
+High Alumina Cement,0.56,Crushed Limestone,59
+Composite Cement,0.36,Pumice,55
+High-Early-Strength Cement,0.52,Diatomaceous Earth,59
+High Alumina Cement,0.43,Expanded Clay,30
+Oil Well Cement,0.43,Expanded Polystyrene Beads (EPS),50
+Sulphate Resistant Cement,0.47,Expanded Polystyrene Beads (EPS),50
+Super Sulphated Cement,0.52,Scoria,59
+Portland Pozzolana Cement (PPC),0.53,Scoria,34
+Masonry Cement,0.42,Expanded Clay,60
+Masonry Cement,0.49,Pumice,20
+Pozzolanic Cement,0.49,Expanded Polystyrene Beads (EPS),34
+High-Early-Strength Cement,0.47,Sand,32
+Composite Cement,0.44,Sand,54
+Masonry Cement,0.54,Expanded Clay,36
+Oil Well Cement,0.48,Steel Slag,47
+Rapid Hardening Cement,0.57,Scoria,33
+Hydrophobic Cement,0.58,Pumice,37
+Hydrophobic Cement,0.52,Crushed Granite,38
+White Cement,0.39,Crushed Concrete,28
+Masonry Cement,0.39,Diatomaceous Earth,42
+Ordinary Portland Cement (OPC),0.43,Crushed Granite,29
+Sulphate Resistant Cement,0.51,Expanded Polystyrene Beads (EPS),59
+Low Heat Cement,0.39,Expanded Clay,46
+Hydrophobic Cement,0.56,Crushed Limestone,55
+Masonry Cement,0.42,Crushed Granite,50
+Colored Cement,0.37,Recycled Aggregates,32
+Pozzolanic Cement,0.47,Scoria,45
+Sulphate Resistant Cement,0.52,Gravel,52
+Sulphate Resistant Cement,0.47,Diatomaceous Earth,27
+Ordinary Portland Cement (OPC),0.49,Crushed Granite,44
+Pozzolanic Cement,0.54,Gravel,56
+Masonry Cement,0.42,Expanded Clay,50
+Colored Cement,0.54,Gravel,52
+Masonry Cement,0.52,Sand,45
+White Cement,0.51,Expanded Polystyrene Beads (EPS),48
+High-Early-Strength Cement,0.44,Crushed Granite,26
+Masonry Cement,0.36,Crushed Concrete,60
+Blast Furnace Slag Cement,0.37,Crushed Concrete,23
+High-Early-Strength Cement,0.5,Crushed Stone,45
+Rapid Hardening Cement,0.6,Crushed Limestone,41
+Portland Pozzolana Cement (PPC),0.45,Diatomaceous Earth,42
+Colored Cement,0.54,Steel Slag,25
+Portland Pozzolana Cement (PPC),0.39,Steel Slag,26
+Sulphate Resistant Cement,0.49,Crushed Stone,59
+High Alumina Cement,0.53,Scoria,46
+High-Early-Strength Cement,0.5,Sand,29
+Masonry Cement,0.57,Recycled Aggregates,26
+Colored Cement,0.58,Diatomaceous Earth,54
+Ordinary Portland Cement (OPC),0.43,Expanded Clay,25
+Expansive Cement,0.54,Scoria,58
+Portland Pozzolana Cement (PPC),0.5,Expanded Polystyrene Beads (EPS),30
+Composite Cement,0.5,Steel Slag,53
+Super Sulphated Cement,0.49,Recycled Aggregates,25
+Colored Cement,0.52,Sand,37
+Hydrophobic Cement,0.42,Crushed Stone,35
+Portland Pozzolana Cement (PPC),0.54,Recycled Aggregates,37
+White Cement,0.56,Steel Slag,20
+Super Sulphated Cement,0.46,Crushed Limestone,47
+Hydrophobic Cement,0.44,Recycled Aggregates,51
